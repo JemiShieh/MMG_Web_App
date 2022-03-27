@@ -1,1 +1,1 @@
-# MMG_Web_App
+#mmg-strain-selector
